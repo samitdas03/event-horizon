@@ -8,7 +8,9 @@ export default authMiddleware({
     "/api/webhook/clerk",
     "/api/webhook/stripe",
     "/api/uploadthing",
-    "/assets/",
+    "assets/images/logo.svg",
+    "/assets/images/hero.png",
+    "/assets/images/dotted-pattern.png",
     // "/sign-in"
   ],
   ignoredRoutes: [
@@ -16,7 +18,9 @@ export default authMiddleware({
     "/api/webhook/clerk",
     "/api/webhook/stripe",
     "/api/uploadthing",
-    "/assets/",
+    "assets/images/logo.svg",
+    "/assets/images/hero.png",
+    "/assets/images/dotted-pattern.png",
     // "/sign-in"
   ]
 });
